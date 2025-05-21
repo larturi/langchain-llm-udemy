@@ -20,10 +20,15 @@ Este es un proyecto de prueba de concepto (PoC) que utiliza LangChain con el mod
 
 ## Uso
 
-Para ejecutar el ejemplo básico:
+Para ejecutar los ejemplos:
 
 ```bash
-python3 main.py
+# Ejemplo 1: Interacción básica con LangChain y LLM
+python3 bloque-1-model-io/01-interaccion-langchain-llm.py
+
+# Ejemplo 2: Plantillas de prompts
+python3 bloque-1-model-io/02-plantillas-de-prompts.py
+
 ```
 
 ## Estructura del Proyecto
