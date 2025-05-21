@@ -29,13 +29,9 @@ python3 bloque-1-model-io/01-interaccion-langchain-llm.py
 # Ejemplo 2: Plantillas de prompts
 python3 bloque-1-model-io/02-plantillas-de-prompts.py
 
+# Ejemplo 3: Parsear y formatear salida
+python3 bloque-1-model-io/03-parsear-y-formatear-salida.py
 ```
-
-## Estructura del Proyecto
-
-- `main.py`: Contiene el código principal con un ejemplo básico de uso de LangChain
-- `requirements.txt`: Lista de dependencias del proyecto
-- `.env`: Archivo para las variables de entorno (no incluido en el repositorio)
 
 ## Características
 
