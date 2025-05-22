@@ -22,6 +22,7 @@ Este es un proyecto de prueba de concepto (PoC) que utiliza LangChain con el mod
 
 Para ejecutar los ejemplos:
 
+### Bloque 1: Modelos y IO
 ```bash
 # Ejemplo 1: Interacción básica con LangChain y LLM
 python3 bloque-1-model-io/01-interaccion-langchain-llm.py
@@ -31,6 +32,18 @@ python3 bloque-1-model-io/02-plantillas-de-prompts.py
 
 # Ejemplo 3: Parsear y formatear salida
 python3 bloque-1-model-io/03-parsear-y-formatear-salida.py
+```
+
+### Bloque 2: Conectores de datos
+```bash
+# Ejemplo 1: Cargadores de documentos: CSV
+python3 bloque-2-conectores-datos/01.1-carga-csv.py
+
+# Ejemplo 2: Cargadores de documentos: HTML
+python3 bloque-2-conectores-datos/01.2-carga-html.py
+
+# Ejemplo 3: Cargadores de documentos: PDF
+python3 bloque-2-conectores-datos/01.3-carga-pdf.py
 ```
 
 ## Características
