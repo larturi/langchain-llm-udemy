@@ -44,6 +44,15 @@ python3 bloque-2-conectores-datos/01.2-carga-html.py
 
 # Ejemplo 3: Cargadores de documentos: PDF
 python3 bloque-2-conectores-datos/01.3-carga-pdf.py
+
+# Ejemplo 4: Cargadores de documentos: Wikipedia
+python3 bloque-2-conectores-datos/01.4-cargador-wikipedia.py
+
+# Ejemplo 5: Cargadores de documentos: CharacterTextSplitter
+python3 bloque-2-conectores-datos/01.5-cargador.py
+
+# Ejemplo 6: Cargadores de documentos: Embedding
+python3 bloque-2-conectores-datos/01.6-embedding.py
 ```
 
 ## Características
