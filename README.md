@@ -53,6 +53,11 @@ python3 bloque-2-conectores-datos/01.5-cargador.py
 
 # Ejemplo 6: Cargadores de documentos: Embedding
 python3 bloque-2-conectores-datos/01.6-embedding.py
+
+# Ejemplo 7: Cargadores de documentos: Almacenar vectores en BD
+python3 bloque-2-conectores-datos/01.7-almacenar-vectores.py
+
+
 ```
 
 ## Características
